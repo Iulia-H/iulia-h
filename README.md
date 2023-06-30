@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning CSS tricks 
 - 🤔 I’m looking for my next opportunity
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iulia-h/), [Portfolio](https://iulia-heinrich.com/)
 - 😄 Pronouns: She/Her/Hers
